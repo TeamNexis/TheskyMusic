@@ -1,7 +1,7 @@
 <h1 align="center">🎵 TeamSky Music Bot</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/hxzqbf.jpg" alt="TeamSky Music Logo" width="600" height="400">
+  <img src="https://files.catbox.moe/6haisw.jpg" alt="TeamSky Music Logo" width="600" height="400">
 </p>
 
 <h3 align="center">Delivering Superior Music Experience to Telegram</h3>
